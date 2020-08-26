@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9f5248b0-e053-464d-a2a4-2e9f761b4f2a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/第5章_条件语句/if_else.py" beforeDir="false" afterPath="$PROJECT_DIR$/第5章_条件语句/if_else.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +22,9 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/第2章_变量和数据类型/hello_world.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/第2章_变量和数据类型/name_cases.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/第6章_字典/alien.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/第3章_列表(数组)/sort_list.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/第7章_用户输入和while循环/input.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/第4章_列表(数组)的操作/loop.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/第5章_条件语句/if_else.py" root0="SKIP_INSPECTION" />
   </component>
@@ -40,8 +41,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Python.players">
-    <configuration name="bicycles" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.rollercoaster">
+    <configuration name="alien" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python编程从入门到实践" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -49,11 +50,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第3章_列表(数组)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第6章_字典" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第3章_列表(数组)/bicycles.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第6章_字典/alien.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -62,7 +63,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="loop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="input" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python编程从入门到实践" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -70,11 +71,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第4章_列表(数组)的操作" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第7章_用户输入和while循环" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第4章_列表(数组)的操作/loop.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第7章_用户输入和while循环/input.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -104,7 +105,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sort_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="rollercoaster" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python编程从入门到实践" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -112,11 +113,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第3章_列表(数组)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第7章_用户输入和while循环" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第3章_列表(数组)/sort_list.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第7章_用户输入和while循环/rollercoaster.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -148,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.rollercoaster" />
+        <item itemvalue="Python.input" />
+        <item itemvalue="Python.alien" />
         <item itemvalue="Python.players" />
         <item itemvalue="Python.squres" />
-        <item itemvalue="Python.loop" />
-        <item itemvalue="Python.sort_list" />
-        <item itemvalue="Python.bicycles" />
       </list>
     </recent_temporary>
   </component>
@@ -170,22 +171,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1419" height="230" key="GridCell.Tab.0.bottom" timestamp="1598421779877">
+    <state width="1419" height="230" key="GridCell.Tab.0.bottom" timestamp="1598433372946">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1419" height="230" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1598421779877" />
-    <state width="1419" height="230" key="GridCell.Tab.0.center" timestamp="1598421779876">
+    <state width="1419" height="230" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1598433372946" />
+    <state width="1419" height="230" key="GridCell.Tab.0.center" timestamp="1598433372945">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1419" height="230" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1598421779876" />
-    <state width="1419" height="230" key="GridCell.Tab.0.left" timestamp="1598421779875">
+    <state width="1419" height="230" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1598433372945" />
+    <state width="1419" height="230" key="GridCell.Tab.0.left" timestamp="1598433372945">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1419" height="230" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1598421779875" />
-    <state width="1419" height="230" key="GridCell.Tab.0.right" timestamp="1598421779876">
+    <state width="1419" height="230" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1598433372945" />
+    <state width="1419" height="230" key="GridCell.Tab.0.right" timestamp="1598433372945">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1419" height="230" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1598421779876" />
+    <state width="1419" height="230" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1598433372945" />
     <state width="1419" height="285" key="GridCell.Tab.1.bottom" timestamp="1598344957611">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
