@@ -1,0 +1,58 @@
+[core]
+	excludesfile = /Users/MZP/.gitignore_global
+[difftool "sourcetree"]
+	cmd = opendiff \"$LOCAL\" \"$REMOTE\"
+	path =
+[mergetool "sourcetree"]
+	cmd = /Applications/Sourcetree.app/Contents/Resources/opendiff-w.sh \"$LOCAL\" \"$REMOTE\" -ancestor \"$BASE\" -merge \"$MERGED\"
+	trustExitCode = true
+[user]
+	name = MZP
+	email = 604183841@qq.com
+[push]
+
+default = current
+[core]
+
+editor = vim
+[color]
+
+status = auto
+branch = auto
+diff = auto
+ui = true
+pager = true
+[color "branch"]
+
+current = yellow reverse
+local = yellow
+remote = green
+[color "diff"]
+
+meta = yellow bold
+frag = magenta bold
+old = red bold
+new = green bold
+[color "status"]
+
+added = yellow
+changed = green
+untracked = cyan
+[alias]
+
+ci = commit
+st = status -b
+co = checkout
+br = branch
+la = log --pretty=\"format:%ad %h (%an): %s\" --date=short
+ll = log --pretty=oneline --graph --decorate --abbrev-commit --all
+lg = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
+ls = log --oneline --stat --date=short
+ss = status -s -b
+[filter "lfs"]
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
+	clean = git-lfs clean -- %f
+[commit]
+	template = /Users/MZP/.stCommitMsg
