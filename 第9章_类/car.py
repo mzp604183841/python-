@@ -1,5 +1,6 @@
 """写一个汽车类，放在一个文件（模块中）"""
 
+
 class Car(object):
     def __init__(self, make, model, year):
         self.make = make
@@ -15,9 +16,9 @@ class Car(object):
         print('this car has' + str(self.odometer_reading) + ' miles on it')
 
     def update_odometer(self, milage):
-        if milage >= self.odometer_reading :
+        if milage >= self.odometer_reading:
             self.odometer_reading = milage
-        else :
+        else:
             print("you can't roll back an odometer ~")
 
     def increment_odometer(self, miles):

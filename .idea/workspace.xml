@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f5248b0-e053-464d-a2a4-2e9f761b4f2a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/python编程从入门到实践.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python编程从入门到实践.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第9章_类/car.py" beforeDir="false" afterPath="$PROJECT_DIR$/第9章_类/car.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第9章_类/dog.py" beforeDir="false" afterPath="$PROJECT_DIR$/第9章_类/dog.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第9章_类/my_car.py" beforeDir="false" afterPath="$PROJECT_DIR$/第9章_类/my_car.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,16 +23,18 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/第2章_变量和数据类型/hello_world.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/第2章_变量和数据类型/name_cases.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/第6章_字典/alien.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/第3章_列表(数组)/sort_list.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/第7章_用户输入和while循环/input.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/第4章_列表(数组)的操作/loop.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/第8章_函数/city_country.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/第5章_条件语句/if_else.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/第9章_类/my_car.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/第9章_类/car.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/第2章_变量和数据类型/hello_world.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/第2章_变量和数据类型/name_cases.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/第10章_文件和异常/file_reader.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/第3章_列表(数组)/sort_list.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/第10章_文件和异常/write_message.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/第4章_列表(数组)的操作/loop.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/第5章_条件语句/if_else.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/第9章_类/dog.py" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectId" id="1gaCc3p3vuJq40eLOJLB28wGlUM" />
@@ -45,30 +49,9 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager" selected="Python.my_car">
-    <configuration name="city_country" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python编程从入门到实践" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第8章_函数" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第8章_函数/city_country.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.write_message">
     <configuration name="dog" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python编程从入门到实践" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -90,7 +73,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="erha" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="file_reader" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python编程从入门到实践" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -98,11 +81,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第9章_类" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第10章_文件和异常" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第9章_类/erha.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第10章_文件和异常/file_reader.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -132,7 +115,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pizza" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="pi_string" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python编程从入门到实践" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -140,11 +123,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第8章_函数" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第10章_文件和异常" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第8章_函数/pizza.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第10章_文件和异常/pi_string.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="write_message" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python编程从入门到实践" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第10章_文件和异常" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第10章_文件和异常/write_message.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.write_message" />
+        <item itemvalue="Python.pi_string" />
+        <item itemvalue="Python.file_reader" />
         <item itemvalue="Python.my_car" />
         <item itemvalue="Python.dog" />
-        <item itemvalue="Python.erha" />
-        <item itemvalue="Python.pizza" />
-        <item itemvalue="Python.city_country" />
       </list>
     </recent_temporary>
   </component>
@@ -185,22 +189,22 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="439" y="271" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.877@0.23.1440.877" timestamp="1598510059301" />
-    <state width="1419" height="230" key="GridCell.Tab.0.bottom" timestamp="1598509492545">
+    <state width="1419" height="160" key="GridCell.Tab.0.bottom" timestamp="1598515739717">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1419" height="230" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1598509492545" />
-    <state width="1419" height="230" key="GridCell.Tab.0.center" timestamp="1598509492544">
+    <state width="1419" height="160" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1598515739717" />
+    <state width="1419" height="160" key="GridCell.Tab.0.center" timestamp="1598515739716">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1419" height="230" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1598509492544" />
-    <state width="1419" height="230" key="GridCell.Tab.0.left" timestamp="1598509492544">
+    <state width="1419" height="160" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1598515739716" />
+    <state width="1419" height="160" key="GridCell.Tab.0.left" timestamp="1598515739715">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1419" height="230" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1598509492544" />
-    <state width="1419" height="230" key="GridCell.Tab.0.right" timestamp="1598509492544">
+    <state width="1419" height="160" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1598515739715" />
+    <state width="1419" height="160" key="GridCell.Tab.0.right" timestamp="1598515739716">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1419" height="230" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1598509492544" />
+    <state width="1419" height="160" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1598515739716" />
     <state width="1419" height="285" key="GridCell.Tab.1.bottom" timestamp="1598509330624">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
@@ -217,13 +221,17 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1419" height="285" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1598509330623" />
-    <state x="221" y="100" key="SettingsEditor" timestamp="1598509844304">
+    <state x="221" y="100" key="SettingsEditor" timestamp="1598513244445">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="221" y="100" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1598509844304" />
+    <state x="221" y="100" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1598513244445" />
     <state x="397" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1598493252896">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="397" y="294" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1598493252896" />
+    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1598513283090">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1598513283090" />
   </component>
 </project>
