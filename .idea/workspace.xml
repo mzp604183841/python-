@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f5248b0-e053-464d-a2a4-2e9f761b4f2a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/python编程从入门到实践.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python编程从入门到实践.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,19 +21,19 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/第6章_字典/alien.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/第7章_用户输入和while循环/input.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/第8章_函数/city_country.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/第9章_类/my_car.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/第9章_类/dog.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/第9章_类/car.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/第10章_文件和异常/file_reader.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/第2章_变量和数据类型/hello_world.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/第2章_变量和数据类型/name_cases.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/第10章_文件和异常/file_reader.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/第3章_列表(数组)/sort_list.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/第10章_文件和异常/write_message.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/第4章_列表(数组)的操作/loop.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/第3章_列表(数组)/sort_list.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/第5章_条件语句/if_else.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/第9章_类/dog.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/第6章_字典/alien.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/第8章_函数/city_country.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/第7章_用户输入和while循环/input.py" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectId" id="1gaCc3p3vuJq40eLOJLB28wGlUM" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -40,15 +41,14 @@
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
   </component>
-  <component name="RunManager" selected="Python.write_byJson">
+  <component name="RunManager" selected="Python tests.Unittests in test_name_function.py">
     <configuration name="error" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python编程从入门到实践" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -70,7 +70,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="file_reader" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="names" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python编程从入门到实践" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -78,32 +78,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第10章_文件和异常" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第11章_测试代码" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第10章_文件和异常/file_reader.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pi_string" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python编程从入门到实践" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第10章_文件和异常" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第10章_文件和异常/pi_string.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第11章_测试代码/names.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,16 +133,31 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Unittests in test_name_function.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="python编程从入门到实践" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第11章_测试代码" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/第11章_测试代码/test_name_function.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Unittests in test_name_function.py" />
+        <item itemvalue="Python.names" />
         <item itemvalue="Python.write_byJson" />
         <item itemvalue="Python.error" />
         <item itemvalue="Python.write_message" />
-        <item itemvalue="Python.pi_string" />
-        <item itemvalue="Python.file_reader" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -186,42 +180,42 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="439" y="271" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.877@0.23.1440.877" timestamp="1598510059301" />
-    <state width="1419" height="132" key="GridCell.Tab.0.bottom" timestamp="1598517110029">
+    <state width="1419" height="314" key="GridCell.Tab.0.bottom" timestamp="1598593324391">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1419" height="132" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1598517110029" />
-    <state width="1419" height="132" key="GridCell.Tab.0.center" timestamp="1598517110028">
+    <state width="1419" height="314" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1598593324391" />
+    <state width="1419" height="314" key="GridCell.Tab.0.center" timestamp="1598593324390">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1419" height="132" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1598517110028" />
-    <state width="1419" height="132" key="GridCell.Tab.0.left" timestamp="1598517110027">
+    <state width="1419" height="314" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1598593324390" />
+    <state width="1419" height="314" key="GridCell.Tab.0.left" timestamp="1598593324389">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1419" height="132" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1598517110027" />
-    <state width="1419" height="132" key="GridCell.Tab.0.right" timestamp="1598517110029">
+    <state width="1419" height="314" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1598593324389" />
+    <state width="1419" height="314" key="GridCell.Tab.0.right" timestamp="1598593324390">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1419" height="132" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1598517110029" />
-    <state width="1419" height="285" key="GridCell.Tab.1.bottom" timestamp="1598509330624">
+    <state width="1419" height="314" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1598593324390" />
+    <state width="1419" height="285" key="GridCell.Tab.1.bottom" timestamp="1598535195782">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1419" height="285" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1598509330624" />
-    <state width="1419" height="285" key="GridCell.Tab.1.center" timestamp="1598509330623">
+    <state width="1419" height="285" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1598535195782" />
+    <state width="1419" height="285" key="GridCell.Tab.1.center" timestamp="1598535195781">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1419" height="285" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1598509330623" />
-    <state width="1419" height="285" key="GridCell.Tab.1.left" timestamp="1598509330622">
+    <state width="1419" height="285" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1598535195781" />
+    <state width="1419" height="285" key="GridCell.Tab.1.left" timestamp="1598535195781">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1419" height="285" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1598509330622" />
-    <state width="1419" height="285" key="GridCell.Tab.1.right" timestamp="1598509330623">
+    <state width="1419" height="285" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1598535195781" />
+    <state width="1419" height="285" key="GridCell.Tab.1.right" timestamp="1598535195782">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1419" height="285" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1598509330623" />
-    <state x="221" y="100" key="SettingsEditor" timestamp="1598513244445">
+    <state width="1419" height="285" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1598535195782" />
+    <state x="221" y="100" key="SettingsEditor" timestamp="1598581064807">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="221" y="100" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1598513244445" />
+    <state x="221" y="100" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1598581064807" />
     <state x="397" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1598493252896">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
