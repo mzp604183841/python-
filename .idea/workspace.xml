@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9f5248b0-e053-464d-a2a4-2e9f761b4f2a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/python编程从入门到实践.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python编程从入门到实践.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/第11章_测试代码/name_function.py" beforeDir="false" afterPath="$PROJECT_DIR$/第11章_测试代码/name_function.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/第11章_测试代码/test_name_function.py" beforeDir="false" afterPath="$PROJECT_DIR$/第11章_测试代码/test_name_function.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +45,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -212,10 +209,10 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1419" height="285" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1598535195782" />
-    <state x="221" y="100" key="SettingsEditor" timestamp="1598581064807">
+    <state x="221" y="100" key="SettingsEditor" timestamp="1598600827625">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="221" y="100" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1598581064807" />
+    <state x="221" y="100" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1598600827625" />
     <state x="397" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1598493252896">
       <screen x="0" y="23" width="1440" height="877" />
     </state>

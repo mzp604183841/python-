@@ -1,0 +1,11 @@
+出现了一个不知名的问题
+使用brew 安装依赖文件的时候
+先是提醒brew升级，非常慢，在.bash_profile 文件中关掉了自动更新
+
+然后提示Xcode alone is not sufficient on Dunno
+而且命名已经安装了xCode-select 命令行工具，但是还让--install 然后一直提示上面的东西
+百度、google了一圈儿没有这个Dunno关键字
+
+蒙了，现在或许可以去官网手动安装pygame
+不过我已经没有耐心了，因为写游戏不是我的目标
+决定这部分先放一放，直接看后面的内容
