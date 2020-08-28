@@ -4,6 +4,7 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/第9章_类" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/第11章_测试代码" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/第11章_测试代码/测试类" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/venv" />
     </content>
     <orderEntry type="inheritedJdk" />
