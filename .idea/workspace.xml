@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f5248b0-e053-464d-a2a4-2e9f761b4f2a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/第12章_武装飞船/problem.txt" beforeDir="false" afterPath="$PROJECT_DIR$/项目1_武装飞船/problem.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,8 +52,8 @@
       <recent name="$PROJECT_DIR$/第11章_测试代码/测试类" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests in test_survey.py">
-    <configuration name="error" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.scatter_squares">
+    <configuration name="mpl_squares" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python编程从入门到实践" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -61,11 +61,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第10章_文件和异常" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/项目2_数据可视化" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第10章_文件和异常/error.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/项目2_数据可视化/mpl_squares.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -74,7 +74,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="names" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="scatter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python编程从入门到实践" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -82,11 +82,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第11章_测试代码" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/项目2_数据可视化" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第11章_测试代码/names.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/项目2_数据可视化/scatter.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -95,7 +95,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="write_byJson" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="scatter_squares" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python编程从入门到实践" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -103,11 +103,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/第10章_文件和异常" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/项目2_数据可视化" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/第10章_文件和异常/write_byJson.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/项目2_数据可视化/scatter_squares.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.scatter_squares" />
+        <item itemvalue="Python.scatter" />
+        <item itemvalue="Python.mpl_squares" />
         <item itemvalue="Python tests.Unittests in test_survey.py" />
         <item itemvalue="Python tests.Unittests in test_name_function.py" />
-        <item itemvalue="Python.names" />
-        <item itemvalue="Python.write_byJson" />
-        <item itemvalue="Python.error" />
       </list>
     </recent_temporary>
   </component>
@@ -173,26 +173,26 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="415" y="87" key="#car/0.23.1440.877@0.23.1440.877" timestamp="1598509239872" />
-    <state x="439" y="271" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598510059301">
+    <state x="439" y="271" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598606621648">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="439" y="271" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.877@0.23.1440.877" timestamp="1598510059301" />
-    <state width="1419" height="208" key="GridCell.Tab.0.bottom" timestamp="1598601149993">
+    <state x="439" y="271" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.877@0.23.1440.877" timestamp="1598606621648" />
+    <state width="1419" height="208" key="GridCell.Tab.0.bottom" timestamp="1598840366154">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1419" height="208" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1598601149993" />
-    <state width="1419" height="208" key="GridCell.Tab.0.center" timestamp="1598601149992">
+    <state width="1419" height="208" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1598840366154" />
+    <state width="1419" height="208" key="GridCell.Tab.0.center" timestamp="1598840366154">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1419" height="208" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1598601149992" />
-    <state width="1419" height="208" key="GridCell.Tab.0.left" timestamp="1598601149992">
+    <state width="1419" height="208" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1598840366154" />
+    <state width="1419" height="208" key="GridCell.Tab.0.left" timestamp="1598840366153">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1419" height="208" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1598601149992" />
-    <state width="1419" height="208" key="GridCell.Tab.0.right" timestamp="1598601149993">
+    <state width="1419" height="208" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1598840366153" />
+    <state width="1419" height="208" key="GridCell.Tab.0.right" timestamp="1598840366154">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1419" height="208" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1598601149993" />
+    <state width="1419" height="208" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1598840366154" />
     <state width="1419" height="285" key="GridCell.Tab.1.bottom" timestamp="1598535195782">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
@@ -209,10 +209,10 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1419" height="285" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1598535195782" />
-    <state x="221" y="100" key="SettingsEditor" timestamp="1598600827625">
+    <state x="221" y="100" key="SettingsEditor" timestamp="1598602610045">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="221" y="100" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1598600827625" />
+    <state x="221" y="100" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1598602610045" />
     <state x="397" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1598493252896">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
