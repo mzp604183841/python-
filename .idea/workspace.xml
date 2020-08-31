@@ -57,7 +57,7 @@
       <recent name="$PROJECT_DIR$/第11章_测试代码/测试类" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.highs_low">
+  <component name="RunManager" selected="Python.highs_lows">
     <configuration name="highs_low" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python编程从入门到实践" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -79,7 +79,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="mpl_squares" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="highs_lows" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python编程从入门到实践" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -87,11 +87,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/项目2_数据可视化" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/项目2.2_下载数据" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/项目2_数据可视化/mpl_squares.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/项目2.2_下载数据/highs_lows.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -165,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.highs_lows" />
         <item itemvalue="Python.highs_low" />
         <item itemvalue="Python.rw_visual" />
         <item itemvalue="Python.scatter_squares" />
         <item itemvalue="Python.scatter" />
-        <item itemvalue="Python.mpl_squares" />
       </list>
     </recent_temporary>
   </component>
@@ -196,22 +196,22 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="439" y="271" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.877@0.23.1440.877" timestamp="1598606621648" />
-    <state width="1419" height="208" key="GridCell.Tab.0.bottom" timestamp="1598860078805">
+    <state width="1419" height="114" key="GridCell.Tab.0.bottom" timestamp="1598868562383">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1419" height="208" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1598860078805" />
-    <state width="1419" height="208" key="GridCell.Tab.0.center" timestamp="1598860078804">
+    <state width="1419" height="114" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1598868562383" />
+    <state width="1419" height="114" key="GridCell.Tab.0.center" timestamp="1598868562382">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1419" height="208" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1598860078804" />
-    <state width="1419" height="208" key="GridCell.Tab.0.left" timestamp="1598860078803">
+    <state width="1419" height="114" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1598868562382" />
+    <state width="1419" height="114" key="GridCell.Tab.0.left" timestamp="1598868562381">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1419" height="208" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1598860078803" />
-    <state width="1419" height="208" key="GridCell.Tab.0.right" timestamp="1598860078804">
+    <state width="1419" height="114" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1598868562381" />
+    <state width="1419" height="114" key="GridCell.Tab.0.right" timestamp="1598868562382">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1419" height="208" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1598860078804" />
+    <state width="1419" height="114" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1598868562382" />
     <state width="1419" height="285" key="GridCell.Tab.1.bottom" timestamp="1598858409586">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
