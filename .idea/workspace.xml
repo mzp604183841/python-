@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f5248b0-e053-464d-a2a4-2e9f761b4f2a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/python编程从入门到实践.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python编程从入门到实践.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/项目2_数据可视化/mpl_squares.py" beforeDir="false" afterPath="$PROJECT_DIR$/项目2.1_数据可视化/mpl_squares.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/项目2_数据可视化/random_walk.py" beforeDir="false" afterPath="$PROJECT_DIR$/项目2.1_数据可视化/random_walk.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/项目2_数据可视化/rw_visual.py" beforeDir="false" afterPath="$PROJECT_DIR$/项目2.1_数据可视化/rw_visual.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/项目2_数据可视化/scatter.py" beforeDir="false" afterPath="$PROJECT_DIR$/项目2.1_数据可视化/scatter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/项目2_数据可视化/scatter_squares.py" beforeDir="false" afterPath="$PROJECT_DIR$/项目2.1_数据可视化/scatter_squares.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/项目2.2_下载数据/highs_low.py" beforeDir="false" afterPath="$PROJECT_DIR$/项目2.2_下载数据/highs_low.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -201,22 +196,22 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="439" y="271" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.877@0.23.1440.877" timestamp="1598606621648" />
-    <state width="1419" height="208" key="GridCell.Tab.0.bottom" timestamp="1598858452006">
+    <state width="1419" height="208" key="GridCell.Tab.0.bottom" timestamp="1598860078805">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1419" height="208" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1598858452006" />
-    <state width="1419" height="208" key="GridCell.Tab.0.center" timestamp="1598858452005">
+    <state width="1419" height="208" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1598860078805" />
+    <state width="1419" height="208" key="GridCell.Tab.0.center" timestamp="1598860078804">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1419" height="208" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1598858452005" />
-    <state width="1419" height="208" key="GridCell.Tab.0.left" timestamp="1598858452004">
+    <state width="1419" height="208" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1598860078804" />
+    <state width="1419" height="208" key="GridCell.Tab.0.left" timestamp="1598860078803">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1419" height="208" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1598858452004" />
-    <state width="1419" height="208" key="GridCell.Tab.0.right" timestamp="1598858452005">
+    <state width="1419" height="208" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1598860078803" />
+    <state width="1419" height="208" key="GridCell.Tab.0.right" timestamp="1598860078804">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1419" height="208" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1598858452005" />
+    <state width="1419" height="208" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1598860078804" />
     <state width="1419" height="285" key="GridCell.Tab.1.bottom" timestamp="1598858409586">
       <screen x="0" y="23" width="1440" height="877" />
     </state>

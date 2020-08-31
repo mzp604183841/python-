@@ -1,4 +1,6 @@
 import csv
+from matplotlib import pyplot as plt
+from datetime import datetime
 
 # fileName = 'sitka_weather_07-2014.csv'
 # with open(fileName) as file:
@@ -25,10 +27,24 @@ fileName = 'sitka_weather_07-2014.csv'
 with open(fileName) as file:
     reader = csv.reader(file)
     highs = []
-    num = 1
+    dates = []
+    isHead = True
     for row in reader:
-        if num == 1:
-            num += 1
+        if isHead:
+            isHead = False
             continue
+        current_date = datetime.strptime(row[0], '%Y-%m-%d')
+        dates.append(current_date)
         highs.append(int(row[1]))
+
     print(highs)
+
+
+fig = plt.figure(dpi=128, figsize=(10, 6))
+plt.plot(dates, highs, c='red')
+plt.title('Daily high temperatures, July 2014', fontsize=20)
+plt.xlabel('', fontsize=14)
+fig.autofmt_xdate()
+plt.ylabel('Temperatures', fontsize=14)
+plt.tick_params(axis='both', which='major', labelsize=14)
+plt.show()
