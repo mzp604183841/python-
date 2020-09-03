@@ -15,5 +15,5 @@ for btc_dict in btc_data:
     week = btc_data['week']
     weekday = btc_data['weekday']
     close = btc_data['close']
-    
+
 
